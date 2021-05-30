@@ -1,0 +1,14 @@
+D:\zahid\bsm\20-21-Bahar\yazlab2\CardMatchingGame\CardMatchingGame\CardMatchingGame\bin\Debug\CardMatchingGame.exe.config
+D:\zahid\bsm\20-21-Bahar\yazlab2\CardMatchingGame\CardMatchingGame\CardMatchingGame\bin\Debug\CardMatchingGame.exe
+D:\zahid\bsm\20-21-Bahar\yazlab2\CardMatchingGame\CardMatchingGame\CardMatchingGame\bin\Debug\CardMatchingGame.pdb
+D:\zahid\bsm\20-21-Bahar\yazlab2\CardMatchingGame\CardMatchingGame\CardMatchingGame\obj\Debug\CardMatchingGame.csprojAssemblyReference.cache
+D:\zahid\bsm\20-21-Bahar\yazlab2\CardMatchingGame\CardMatchingGame\CardMatchingGame\obj\Debug\CardMatchingGame.Form1.resources
+D:\zahid\bsm\20-21-Bahar\yazlab2\CardMatchingGame\CardMatchingGame\CardMatchingGame\obj\Debug\CardMatchingGame.Properties.Resources.resources
+D:\zahid\bsm\20-21-Bahar\yazlab2\CardMatchingGame\CardMatchingGame\CardMatchingGame\obj\Debug\CardMatchingGame.csproj.GenerateResource.cache
+D:\zahid\bsm\20-21-Bahar\yazlab2\CardMatchingGame\CardMatchingGame\CardMatchingGame\obj\Debug\CardMatchingGame.csproj.CoreCompileInputs.cache
+D:\zahid\bsm\20-21-Bahar\yazlab2\CardMatchingGame\CardMatchingGame\CardMatchingGame\obj\Debug\CardMatchingGame.exe
+D:\zahid\bsm\20-21-Bahar\yazlab2\CardMatchingGame\CardMatchingGame\CardMatchingGame\obj\Debug\CardMatchingGame.pdb
+D:\zahid\bsm\20-21-Bahar\yazlab2\CardMatchingGame\CardMatchingGame\CardMatchingGame\obj\Debug\CardMatchingGame.MainPage.resources
+D:\zahid\bsm\20-21-Bahar\yazlab2\CardMatchingGame\CardMatchingGame\CardMatchingGame\obj\Debug\CardMatchingGame.Level2.resources
+D:\zahid\bsm\20-21-Bahar\yazlab2\CardMatchingGame\CardMatchingGame\CardMatchingGame\obj\Debug\CardMatchingGame.Level3.resources
+D:\zahid\bsm\20-21-Bahar\yazlab2\CardMatchingGame\CardMatchingGame\CardMatchingGame\obj\Debug\CardMatchingGame.EndGamePage.resources
